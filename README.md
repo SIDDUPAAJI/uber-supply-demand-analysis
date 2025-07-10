@@ -52,7 +52,7 @@ python uber_eda_project_cleaned.py
 
 ## Author
 
-SID
+SIDDESH
 
 ## License
 
